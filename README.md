@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-arnav-tau.vercel.app/">Portfolio</a> ·
+  <a href="https://www.arnavhooda.co.in/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/arnav-hooda-87061486/">LinkedIn</a> ·
   <a href="mailto:arnavhooda@gmail.com">Email</a>
 </p>
@@ -28,7 +28,7 @@ I'm a Computer Science Engineering student specializing in Artificial Intelligen
 
 A responsive, evidence-led portfolio presenting my AI research, software projects, and product-building experience.
 
-**Live:** [portfolio-arnav-tau.vercel.app]((https://www.arnavhooda.co.in/))
+**Live:** [portfolio-https://www.arnavhooda.co.in/]((https://www.arnavhooda.co.in/))
 
 ### Samsung PRISM — Spoken Language Identification
 
