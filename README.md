@@ -58,6 +58,6 @@ Developed a full-stack marketplace for freelancers and businesses using React an
 
 I'm interested in working with teams building useful AI and thoughtful software.
 
-- 🌐 [Portfolio](https://portfolio-arnav-tau.vercel.app/)
+- 🌐 [Portfolio](https://www.arnavhooda.co.in/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/arnav-hooda-87061486/)
 - ✉️ [arnavhooda@gmail.com](mailto:arnavhooda@gmail.com)
