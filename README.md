@@ -28,7 +28,7 @@ I'm a Computer Science Engineering student specializing in Artificial Intelligen
 
 A responsive, evidence-led portfolio presenting my AI research, software projects, and product-building experience.
 
-**Live:** [portfolio-arnav-tau.vercel.app](https://portfolio-arnav-tau.vercel.app/)
+**Live:** [portfolio-arnav-tau.vercel.app]((https://www.arnavhooda.co.in/))
 
 ### Samsung PRISM — Spoken Language Identification
 
